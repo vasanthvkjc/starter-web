@@ -1,2 +1,4 @@
 some text
 Additional text
+Another set of changes
+Next set of changes
