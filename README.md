@@ -13,3 +13,7 @@ This is the example to show difference btw staging area and local repository dir
 ##Deployment
 
 This is the examplet to show the difference btw working directory and local repository
+
+## Build
+
+Another example
