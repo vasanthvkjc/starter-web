@@ -17,3 +17,7 @@ This is the examplet to show the difference btw working directory and local repo
 ## Build
 
 Another example
+
+##Copyrights
+
+2014 Git Training
