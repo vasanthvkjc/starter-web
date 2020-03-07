@@ -7,7 +7,7 @@
 
 # THANKS
 
-    All for your care
+    All for your care. Stashing changes
 
 # TECHNOLOGY COLOPHON
 
