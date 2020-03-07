@@ -25,3 +25,7 @@ Another example
 ##Copyrights
 
 2014 Git Training. The changes from origin/master
+
+##Message
+
+Updating this for stash example
